@@ -2,6 +2,12 @@
 
 Open Mobile Network Infra Meetupの資料保存・公開用のリポジトリです．
 
+## Copyright Policy
+
+本リポジトリ内の各資料のCopyrightは資料内に記載されているCopyrightに従います．
+
+資料内にCopyrightが無い場合はCopyrightは発表者に帰属するものとします．
+
 ## Links
 
 Open Mobile Network Infra Meetupについては以下のリンクをご確認ください．
